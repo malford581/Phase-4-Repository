@@ -1,14 +1,15 @@
 # Technical Document 
 #### Collaborators
-* Aenima4u
-* Layesuza
-* alhanson7210
+* Terrance
+* Fabiola
+* Michael
+
 
 #### Project: 
-- App Dev: Storing Image and Video Files in Cloud Storage - Python
+- App Dev: Storing Image Files in Cloud Storage - Python
 
 ## Brief Overview
-- This basic demonstration of we can upload images & videos and retrieve application data with Cloud Storage working from an existing git repository, then adding our own mix to it
+- This is a repository of work we have collaborated on. Some of the files will be labs that we have remixed and others will be code we came with on our own.
 
 ## Scope of Work
 - Configuring an application to use Cloud Storage to store and retrieve application data.
